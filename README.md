@@ -1,5 +1,5 @@
 # docker-simple-project
-Based on material I learned in **Udemy: Docker and Kubernetes: The Complete Guide**
+Simple docker project. This project formed part of an online course on how to use Docker.
 
 ## Overview
 
