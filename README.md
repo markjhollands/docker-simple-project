@@ -1,5 +1,5 @@
-# udemy-docker-and-kubernetes-s4
-Udemy: Docker and Kubernetes: The Complete Guide - Section 4: Making Real Projects with Docker
+# docker-simple-project
+Based on material I learned in **Udemy: Docker and Kubernetes: The Complete Guide**
 
 ## Overview
 
